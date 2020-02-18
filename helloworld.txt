@@ -1,3 +1,4 @@
 Name : ina
 Address : bandung
 Phone : 12345
+Hobby : Singing
